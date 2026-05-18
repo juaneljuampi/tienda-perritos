@@ -82,7 +82,7 @@ function renderProductos(productos) {
 
 function limpiarFormulario() {
   editandoId = null;
-  formTitle.textContent = "Nuevo producto";
+  formTitle.textContent = "Nuevo productossss";
   inputNombre.value = "";
   inputDescripcion.value = "";
   inputPrecio.value = "";
